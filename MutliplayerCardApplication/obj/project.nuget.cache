@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oab4DZa/9RLmHcUm1ZOp3JAtDLbjubDJRUk3LZLCP1i7Kzg0o2XSCdaN47MozMsSjBkeEx+WXaZU5lnTxSBtiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cp361879\\source\\repos\\MutliplayerCardApplication\\MutliplayerCardApplication\\MutliplayerCardApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cp361879\\.nuget\\packages\\iesi.collections\\4.0.5\\iesi.collections.4.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

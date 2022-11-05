@@ -1,0 +1,13 @@
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\bin\Debug\netcoreapp3.1\MutliplayerCardApplication.exe
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\bin\Debug\netcoreapp3.1\MutliplayerCardApplication.deps.json
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\bin\Debug\netcoreapp3.1\MutliplayerCardApplication.runtimeconfig.json
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\bin\Debug\netcoreapp3.1\MutliplayerCardApplication.runtimeconfig.dev.json
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\bin\Debug\netcoreapp3.1\MutliplayerCardApplication.dll
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\bin\Debug\netcoreapp3.1\MutliplayerCardApplication.pdb
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\bin\Debug\netcoreapp3.1\Iesi.Collections.dll
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\obj\Debug\netcoreapp3.1\MutliplayerCardApplication.AssemblyInfoInputs.cache
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\obj\Debug\netcoreapp3.1\MutliplayerCardApplication.AssemblyInfo.cs
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\obj\Debug\netcoreapp3.1\MutliplayerCardApplication.csproj.CopyComplete
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\obj\Debug\netcoreapp3.1\MutliplayerCardApplication.dll
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\obj\Debug\netcoreapp3.1\MutliplayerCardApplication.pdb
+C:\Users\cp361879\source\repos\MutliplayerCardApplication\MutliplayerCardApplication\obj\Debug\netcoreapp3.1\MutliplayerCardApplication.csprojAssemblyReference.cache
